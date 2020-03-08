@@ -1,0 +1,4 @@
+elaticjob:
+  zookeeper:
+    server-lists: 192.168.199.128:2181
+    namespace: my-project
